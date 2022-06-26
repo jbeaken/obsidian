@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "bacb13b85437994c",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4001f06c702b288",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Answers.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abf1befe7bbc5f6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bf71d554d99c753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "958c7233e6b7f77e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d44a1badf948485c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "357d0a09585d0e6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "68b8ace81b8177e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6e43c7fdb9a62bd2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Answers.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d4001f06c702b288",
+  "lastOpenFiles": [
+    "Answers.md",
+    "Generics.md",
+    "Functional Programming.md",
+    "Type Theory.md",
+    "Kotlin.md",
+    "Glossary.md"
+  ]
+}

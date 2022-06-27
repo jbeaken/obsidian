@@ -37,26 +37,21 @@ Serializable s = pick("d", new ArrayList<String>());
 Target type of an expression is the data type that the Java compiler expects depending on where the expression appears.
 
   
-[Type Parameter and Type Argument Terminology](https://blog.kotlin-academy.com/programmer-dictionary-parameter-vs-argument-type-parameter-vs-type-argument-b965d2cc6929): Many developers use the terms "type parameter" and "type argument" interchangeably, but these terms are not the same. T in Foo<T> is a type parameter and String in Foo<String> f is a type argument.  
+[Type Parameter and Type Argument Terminology](https://blog.kotlin-academy.com/programmer-dictionary-parameter-vs-argument-type-parameter-vs-type-argument-b965d2cc6929): Many developers use the terms "type parameter" and "type argument" interchangeably, but these terms are not the same. T in Foo\<T> is a type parameter and String in Foo\<String> f is a type argument.  
 **_Type parameter_** is blueprint or placeholder for a type declared in generic. **_Type argument_** is actual type used to parametrize generic.
-
-  
 
 Raw type: is the name of a generic class or interface without any type arguments.
   
 
 [Type Erasure](https://docs.oracle.com/javase/tutorial/java/generics/erasure.html) type information is not available to the JVM at runtime, only compile time. During the type erasure process, the Java compiler erases all type parameters and replaces each with its first bound if the type parameter is bounded, or Object if the type parameter is unbounded.
-
   
 
 [Reified type parameters](https://docs.oracle.com/javase/tutorial/java/generics/nonReifiableVarargsType.html): allow you to refer at runtime to the specific types used as type arguments in an inline function call. (For normal classes or functions, this isn’t possible, because type arguments are erased at runtime.
 
   
-
 [Restrictions on Generics](https://docs.oracle.com/javase/tutorial/java/generics/restrictions.html)
 
   
-
 PECS
 
 ? extends for covariance PE
@@ -64,15 +59,12 @@ PECS
 ? super for [contravariance](https://www.youtube.com/watch?v=tlAGSScIu_w) CS
 
   
-
 Return type in java is [covariant](https://www.baeldung.com/java-covariant-return-type)
 
   
-
-At RT List<String> and List<Integer> are the same : List
+At RT List\<String> and List\<Integer> are the same : List
 
   
-
 At CT
 
 1.  Replace generic types with objects
@@ -85,8 +77,6 @@ At CT
 [Producer extends, consumer supplies](http://stackoverflow.com/questions/2723397/what-is-pecs-producer-extends-consumer-super)
 
   
-  
-
 [Wildcard Usage](https://docs.oracle.com/javase/tutorial/java/generics/wildcardGuidelines.html)
 
   

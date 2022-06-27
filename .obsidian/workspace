@@ -7,12 +7,8 @@
         "id": "d4001f06c702b288",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Answers.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Answers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +84,15 @@
   },
   "active": "d4001f06c702b288",
   "lastOpenFiles": [
-    "Answers.md",
-    "Generics.md",
-    "Functional Programming.md",
+    "Kotlin Binary Tree.md",
+    "Binary Tree.md",
+    "Kotlin Types.md",
     "Type Theory.md",
-    "Kotlin.md",
-    "Glossary.md"
+    "Binary Tree Traversals.md",
+    "Stack.md",
+    "Data Structures.md",
+    "Competitive Programming.md",
+    "Productive Learning.md",
+    "Binary Tree Insertion.md"
   ]
 }

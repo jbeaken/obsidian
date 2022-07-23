@@ -1,4 +1,4 @@
-
+q
 ![Alt Test](https://media.geeksforgeeks.org/wp-content/cdn-uploads/2009/06/tree12.gif)
 
 Depth First Traversals:   
@@ -11,6 +11,11 @@ Breadth-First or Level Order Traversal: 1 2 3 4 5 
 Please see [this](https://www.geeksforgeeks.org/level-order-tree-traversal/) post for Breadth-First Traversal.
 
 [Baeldung](https://www.baeldung.com/java-depth-first-search)
+
+Both algorithms may come in two variants: [Tree-Like Search and Graph Search](https://www.baeldung.com/cs/graph-search-vs-tree-like-search).
+
+[Difference Between BFS and DFS](https://www.baeldung.com/cs/dfs-vs-bfs)
+
 ```java
 // Java program for different tree traversals
 

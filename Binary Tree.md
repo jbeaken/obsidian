@@ -1,4 +1,5 @@
 [[Data Structures]]
+[[Tree]]
 
 A **binary tree** is a [tree data structure](https://en.wikipedia.org/wiki/Tree_(data_structure) "Tree (data structure)") in which each node has at most two [children](https://en.wikipedia.org/wiki/Child_node "Child node"), which are referred to as the _left child_ and the _right child_.
 

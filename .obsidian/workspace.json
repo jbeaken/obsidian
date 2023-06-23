@@ -40,9 +40,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "24fc5118a5cca294",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Epicureanism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4c08de0d79bb556",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Philosophy/Epicureanism.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "18838a8c9c5f525b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Religion/Early Christianity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -108,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mesopotamia.md",
+                "file": "Religion/Early Christianity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,10 +171,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "87c37f739769f69a",
+  "active": "958c7233e6b7f77e",
   "lastOpenFiles": [
-    "Anatomy.md",
+    "Philosophy/Epicureanism.md",
+    "Religion/Early Christianity.md",
+    "Religion",
+    "Philosophy/Stoicism.md",
     "Mesopotamia.md",
+    "Philosophy",
+    "Anatomy.md",
     "Mesopotamia",
     "Networks.md",
     "Core.md",
